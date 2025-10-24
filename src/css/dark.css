@@ -7,8 +7,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.6;
-  color: #333;
-  background-color: #fff;
+  color: #ffffff;
+  background-color: #292727;
 }
 
 h1,
@@ -94,7 +94,7 @@ header h1 {
 .card {
   width: 100%;
   max-width: 350px;
-  background: white;
+  background: rgb(51, 50, 50);
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -123,7 +123,7 @@ header h1 {
 
 .card p {
   margin-bottom: 15px;
-  color: #666;
+  color: #9b9898;
 }
 
 .btn {
